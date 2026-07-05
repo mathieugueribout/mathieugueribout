@@ -1,5 +1,5 @@
 # Hello there !
-## I'm Mathieu Gueribout, a french, <span style="color: #a6e3a1;">ethical</span>, full-stack developer and devops.
+## I'm Mathieu Gueribout, a french, $${\color{green}ethical}$$, full-stack developer and devops.
 ### Technologies used
 
 | **Category** | **Technologies** |
